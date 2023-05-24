@@ -1,0 +1,2 @@
+To use the files in this folder, run the java class files of the respective program.
+Once run, the program will prompt the user to enter a number and will print a shape of respective size.
