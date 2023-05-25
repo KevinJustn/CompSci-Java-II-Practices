@@ -1,3 +1,5 @@
+// To run this program, run Test.java.
+
 public abstract class Student{
 private int [] weight = null;
 private double gpa;

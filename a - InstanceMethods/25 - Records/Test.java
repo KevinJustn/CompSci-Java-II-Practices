@@ -1,3 +1,6 @@
+// This program prompts the user to enter a file name, which is provided with "trial1", and displays the results
+// of tests, quizzes, and assignments of certain classes. 
+
 import javax.swing.JOptionPane;
 import java.io.*;
 import java.util.*;

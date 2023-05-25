@@ -1,3 +1,5 @@
+// To run this program, run Test.java.
+
 public class Records extends Student{
 private int [] test = null;
 private int [] quiz = null;
